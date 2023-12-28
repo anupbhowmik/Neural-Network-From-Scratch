@@ -1,0 +1,2 @@
+use cross entropy loss
+use minibatch gradient descent
