@@ -1,4 +1,0 @@
-use cross entropy loss
-use minibatch gradient descent
-
-need one hot for multi class classification?
