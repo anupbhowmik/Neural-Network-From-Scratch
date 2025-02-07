@@ -4,7 +4,6 @@ This project implements a neural network using Python. The implementation includ
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [Features](#features)
 - [Implementation](#implementation)
   - [Model Definition](#model-definition)
